@@ -17,7 +17,7 @@ feature_row:
     alt: "Historical Designs"
     title: "Designs"
     excerpt: "The designs I have on offer."
-    url: "designs"
+  #  url: "designs"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
