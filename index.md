@@ -16,7 +16,7 @@ feature_row:
   - image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Historical Designs"
     title: "Designs"
-    excerpt: "Learn about some of my main designs I have to offer and the historical references they are based off."
+    excerpt: "Learn about some of my main designs I have on offer."
     url: "designs"
     btn_label: "Read More"
     btn_class: "btn--primary"
