@@ -13,11 +13,11 @@ intro:
   - excerpt: 'Welcome to my site! Browse below to see my designs and the references they are based off; information about me and details on the making process!'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-  - image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Historical Designs"
     title: "Designs"
     excerpt: "The designs I have on offer."
-  #  url: "designs"
+    url: "designs"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
