@@ -2,6 +2,13 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+<link rel="icon" type="image/png" href="/favicon_edited.png/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon_edited.png/favicon.svg" />
+<link rel="shortcut icon" href="/favicon_edited.png/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon_edited.png/apple-touch-icon.png" />
+<link rel="manifest" href="/favicon_edited.png/site.webmanifest" />
+
 layout: splash
 header:
   overlay_color: "#000"
