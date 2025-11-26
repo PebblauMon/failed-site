@@ -10,26 +10,26 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "North Wales Slate & Pebble Jewellery."
 intro: 
-  - excerpt: 'Welcome to my site! Browse below to see my designs and the references they are based off; information about me and details on the making process!'
+  - excerpt: 'Welcome to Pebblau Mon. I make jewellery using pebbles from North Wales beaches and slate from old roofs. Each piece is shaped, engraved with a fibre laser, and coloured by hand, creating something unique from natural materials.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Historical Designs"
     title: "Designs"
-    excerpt: "The designs I have on offer. \n\n"
+    excerpt: "My designs are inspired by Welsh symbols and archaeological finds, including Roman and early medieval tiles. You can see more of these designs here."
     url: "designs"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Megan Round"
     title: "About Me"
-    excerpt: "Learn about me and my maker skills."
+    excerpt: "I enjoy exploring materials, trying new techniques, and making things with my hands. You can find out more about me on the About Me page."
     url: "about"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "The Process"
-    excerpt: "Learn about the steps that go into making your piece of jewellery!"
+    excerpt: "The pieces take time and careful work, from shaping the stone to enamel firing and finishing. You can read about the full process here."
     url: "process"
     btn_label: "Read More"
     btn_class: "btn--primary"
