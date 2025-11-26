@@ -2,6 +2,10 @@
 permalink: /process/
 title: "The Process"
 ---
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The process starts with selecting the right materials. I collect pebbles from North Wales beaches, taking care to find ones that work well together, and I use slate from old roofs. Each piece of slate is cut into smaller squares, split by hand to make it thinner, and then cut into disks for pendants and earrings. I tumble polish the slate so it has a smooth, pebble-like finish.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The pebbles mostly stay in their natural shape, but I take care when pairing them to get a good match.
+
+Once the stones are prepared, I engrave the designs using a fibre laser. I then add colour by packing enamel into the grooves and firing them in a kiln at 700 degrees over several hours. This gives the designs a glossy, durable finish.
+
+Finally, I assemble the pieces. Pendants get a sterling silver jump ring and chain, while earrings are attached to sterling silver backs.
