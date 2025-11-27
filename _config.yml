@@ -73,7 +73,7 @@ author:
     #  url: "https://github.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "info@pebblaumon.co.uk
+      url: "info@pebblaumon.co.uk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/pebblau_mon"
@@ -92,7 +92,7 @@ footer:
    #   url: "https://github.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "info@pebblaumon.co.uk
+      url: "info@pebblaumon.co.uk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/pebblau_mon"
